@@ -1,0 +1,23 @@
+{
+  "name": "fantasyuci",
+  "version": "1.0.0",
+  "description": "Fantasy Cycling Game - UCI Populated Rosters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjs6502/FantasyUCI.git"
+  },
+  "keywords": [
+    "Fantasy",
+    "Cycling"
+  ],
+  "author": "Randy Seltzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjs6502/FantasyUCI/issues"
+  },
+  "homepage": "https://github.com/rjs6502/FantasyUCI#readme"
+}
